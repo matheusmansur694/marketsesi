@@ -1,0 +1,1 @@
+alert("A ana ta trabalhando hoje, beleza!")
